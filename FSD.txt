@@ -1,0 +1,5 @@
+Full stack development is the end-to-end process of building web applications. 
+It encompasses both the front end (the user-facing interface) and the back end 
+(server-side logic, APIs, and databases). Rather than relying on separate specialists,
+a full-stack developer can manage infrastructure, wire up user experiences,
+and handle data storage.
