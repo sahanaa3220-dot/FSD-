@@ -1,0 +1,8 @@
+<html>
+<body>
+Hello!
+Welcome to my page.
+Have a nice day.
+Thank you!
+</body>
+</html>
